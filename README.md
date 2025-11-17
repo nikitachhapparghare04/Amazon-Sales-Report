@@ -34,7 +34,8 @@ The Dashboard was built using the following tools and technologies:
 **Screenshots**
 1. https://github.com/nikitachhapparghare04/Amazon-Sales-Report/blob/main/SalesAnalysis.png
 2. https://github.com/nikitachhapparghare04/Amazon-Sales-Report/blob/main/ProductAnalysis.png
-3. 
+3. https://github.com/nikitachhapparghare04/Amazon-Sales-Report/blob/main/FulfillmentAnalysis.png
 4. https://github.com/nikitachhapparghare04/Amazon-Sales-Report/blob/main/CustomerSegmentation.png
+5. 
 
 
