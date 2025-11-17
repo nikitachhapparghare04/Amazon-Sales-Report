@@ -32,7 +32,12 @@ The Dashboard was built using the following tools and technologies:
 7. The dashboard enables data-driven decision-making with clear visuals and easy-to-use slicers.
 
 **Screenshots**
-
+1. C:\Users\VICTUS\OneDrive\Desktop\SalesAnalysis.png
+2. C:\Users\VICTUS\OneDrive\Desktop\ProductAnalysis.png
+3. C:\Users\VICTUS\OneDrive\Desktop\FulfillmentAnalysis.png
+4. C:\Users\VICTUS\OneDrive\Desktop\CustomerSegmentation.png
+5. C:\Users\VICTUS\OneDrive\Desktop\GeographicalAnalysis.png
+6. C:\Users\VICTUS\OneDrive\Desktop\BusinessInsights.png
 
 
 
