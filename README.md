@@ -1,7 +1,7 @@
 **Project Title**
 Amazon-Sales-Report
 
-Short Description / Purpose 
+**Short Description / Purpose** 
 This report analyzes Amazon sales data to understand overall performance across products, categories, locations, and order statuses. It highlights key trends such as top-selling items, best-performing states and cities, customer retention levels, and delivery efficiency. The purpose of this report is to identify growth opportunities, improve logistics, optimize inventory, and support data-driven business decisions for increasing sales and customer satisfaction.
 
 **Tech Stack**
