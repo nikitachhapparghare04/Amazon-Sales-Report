@@ -31,6 +31,8 @@ The Dashboard was built using the following tools and technologies:
 6. Underperforming categories like Wallets, Socks, and Perfume need strategy improvements.
 7. The dashboard enables data-driven decision-making with clear visuals and easy-to-use slicers.
 
+**Screenshots**
+
 
 
 
